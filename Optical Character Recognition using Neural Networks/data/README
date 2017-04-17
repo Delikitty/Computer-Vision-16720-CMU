@@ -1,0 +1,2 @@
+Before running function MATLABcnn, data need to be reconstructed.
+Simply Run function data_construct to get the reconstructed data.
