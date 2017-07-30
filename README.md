@@ -63,14 +63,3 @@
 ### Final Project
 * Upcoming
 
-## Contributing
-When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.
-
-* Fork it!
-* Create your feature branch: ```git checkout -b my-new-feature```
-* Commit your changes: ```git commit -am 'Add some feature' ```
-* Push to the branch: ``` git push origin my-new-feature ```
-* Submit a pull request :D
-
-# Liscense
-This project is licensed under the MIT License - see the [MIT](https://opensource.org/licenses/MIT) file for details
